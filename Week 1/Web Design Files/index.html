@@ -1,0 +1,213 @@
+<!doctype html>
+<!-- This website template was created by : Adrianto Hartono -->
+<html lang="en">
+
+<head>
+    <title>Busy Bee Florist</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <script src="myscript.js"></script>
+    <link rel="icon" type="image/x-icon" href="AdobeStock_355277907.jpeg">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Mobile Nav -->
+    <nav class="mobile-nav">
+        <div id="menu-links">
+            <a href="index.html">Home</a>
+            <a href="aboutus.html">About Us</a>
+            <a href="contact.html">Contact Us</a>
+        </div>
+        <a class="menu-icon" onclick="hamburger()">
+            <div>&#9776;</div>
+        </a>
+    </nav>
+    
+    <!-- Use the header area for the website name or logo -->
+    <header>
+        <h1>&#127800; Busy Bee Florist &#127800; </h1>
+    </header>
+
+    <!-- Tablet and Desktop Nav -->
+    <nav class="tablet-desktop">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="aboutus.html">About Us</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <!-- Introduction -->
+        <div class="intro">
+            <h1>&#128075; Welcome to Our Website &#128075; </h1>
+            <p> 
+                Do you need some fresh flowers or foliage tailor-made to suit any occasion?
+                <br>
+                If the answer is
+                <strong class="bold">yes</strong>
+                , then you are lucky because you have come to the right place &#128515;  
+            </p>
+        </div>
+
+        <br>
+        
+        <!-- Announcements -->
+        <div class="announcements-title">
+            <h2> Announcements: </h2>
+        </div>
+
+        <div class="announcements-item">
+            <p> 
+                In response to COVID 19, we do not have readymade flowers available for general 
+                walk-in trade. Please call or use our website for make to order 
+                <br>
+                <br>
+                March Special – 10% off for any web order.
+            </p>
+        </div>
+
+        <!-- Florist Items -->
+        <h3 class="center">
+            Here check some products that we sell in our florist
+            <br>
+            &#8595; &nbsp; &#8595; &nbsp; &#8595; &nbsp; &#8595; &nbsp; &#8595; &nbsp; &#8595;
+        </h3>
+
+        <div class="grid-container">
+            <div class="grid-item">
+                <h1> 1. Rose </h1>
+                <br>
+                <img src="AdobeStock_67181867.jpeg">
+                <br>
+                <p> $4 per flower </p>
+            </div>
+
+            <div class="grid-item">
+                <h1> 2. Garden Roses </h1>
+                <br>
+                <img src="AdobeStock_217902896.jpeg">
+                <br>
+                <p> $5 per flower </p>
+            </div>
+
+            <div class="grid-item">
+                <h1> 3. Avalanche Rose </h1>
+                <br>
+                <img src="AdobeStock_199288513.jpeg">
+                <br>
+                <p> $5 per flower </p>
+            </div>
+
+            <div class="grid-item">
+                <h1> 4. Garden Tulip </h1>
+                <br>
+                <img src="AdobeStock_201751324.jpeg">
+                <br>
+                <p> $6 per flower </p>
+            </div>
+
+            <div class="grid-item">
+                <h1> 5. Pink Roses </h1>
+                <br>
+                <img src="AdobeStock_251133408.jpeg">
+                <br>
+                <p> $5 per flower </p>
+            </div>
+
+            <div class="grid-item">
+                <h1> 6. Bridal Flowers</h1>
+                <br>
+                <img src="AdobeStock_258430254.jpeg">
+                <br>
+                <p> $8 per flower </p>
+            </div>
+
+        </div>
+
+        <br>
+        <br>
+        <br>
+
+        <!-- Links -->
+        <div class="links-title">
+            <h2> Here some of additional information for you to know more about flowers : </h2>
+        </div>
+
+        <div class="links-item">
+            <p> 
+                <a href="https://www.bhg.com.au/australian-native-flowers-a-guide-to-australian-flowers">
+                    (1) Australian Native Flowers Guide
+                </a> 
+            </p>
+
+            <p>
+                <a href="https://www.almanac.com/flower-meanings-language-flowers">
+                    (2) Flower Meaning Language
+                </a>
+            </p>
+
+            <p>
+                <a href="https://indianapublicmedia.org/focusonflowers/rankings.php">
+                    (3) Flower Popularity Rankings
+                </a>
+            </p>
+        </div>
+
+        <br>
+
+        <!-- Call Us -->
+        <h2 class="center">Call Us Today to Get Free Delivery
+            <br>
+            &#8595; &nbsp; &#8595; &nbsp; &#8595; &nbsp; &#8595; &nbsp; &#8595; &nbsp; &#8595;
+        </h2>
+        <p class="tel-link"><a href="tel:0747791243">07 4779 1243</a></p>
+
+        <br>
+        <br>
+
+        <!-- Comments -->
+        <div class="comment-title">
+            <h2> Comments : </h2>
+        </div>
+
+        <div class="comment">
+            <h3> &#128116; People X </h3>
+            <p> 
+                "The best florist in town, so many beautiful 
+                flowers to choose from" 
+            </p>
+        </div>
+
+        <div class="comment">
+            <h3> &#128113; People Y </h3>
+            <p> "Excellent service, will be back again" </p>
+        </div>
+        
+        <div class="comment">
+            <form name="myForm" action="comment.php" method="post" onsubmit="return validateForm1()">
+                <br>
+                Comment: <input type="text" name="comment" placeholder="Enter your comment here">
+                <input type="submit" value="Submit" id="submits">
+            </form>
+        </div>
+    </main>
+
+    <br>
+
+    <footer>
+        <p>
+            &copy; Copyright 2022. All Rights Reserved.
+            <br>
+            <a href="mailto:busybeeflorist@busybeemail.com.au">
+                busybeeflorist@busybeemail.com.au
+            </a>
+        </p>
+    </footer>
+
+    
+</body>
+</html>
