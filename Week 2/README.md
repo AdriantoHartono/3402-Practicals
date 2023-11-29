@@ -15,7 +15,7 @@ the user's eye to visit and scroll through the website.
 
 I made this joomla website in order to practicing on how to use the website and operating some of the functions that provided there.
 I have tried to make different layout from the default joomla page, by using a blog template and edit some of the words. Moreover, I also
-tried to upload 1 image from my own laptop and put use the image there (in the joomla website).
+tried to upload some images from my own laptop and use the images there (in the joomla website).
 
 I learned that to make website we need to prepare some site modules such as image and the content that we want to put in the banner, or bottom page. 
 
