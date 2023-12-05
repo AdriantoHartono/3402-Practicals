@@ -20,7 +20,10 @@ the user's eye to visit and scroll through the website
 
 I made these joomla and wordpress website in order to finishing the assignment 1.
 I have tried to make as similar as it can for both website (joomla and wordpress) eventhough there are some slightly different output, that may be caused by different CMS company.
-Overall, I think both of my website has 95% same layout and all the content (text and media) that I put for both website all there are the same.
+Overall, I think both of my website has 90% same layout and all the content (text and media) that I put for both website all there are the same. It only different in one part which is the navigation bar, it shows that wordpress giving more
+option for the user to customize it, and joomla only providing the default navigation bar, which cannot be customized like
+wordpress has. Moreover, I have use some of the plugin that provided by each CMS (joomla and wordpress) which helping 
+to add some new functions.
 
 I learned that both joomla and wordpress may have a same function and used, but there are some slightly different things that each CMS company has.
 
