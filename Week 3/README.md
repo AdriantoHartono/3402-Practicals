@@ -18,6 +18,8 @@ I made this wordpress website in order to practicing on how to use the website a
 I have tried to make different layout from the default wordpress page, by using a blog template and edit some of the parts there. Moreover, I also
 tried to upload some images from my own laptop and use the images there (in the wordpress website). In this practical, I'm more focused on how to use some of the
 function in the wordpress rather than developing content and design for my site.
+The goal of the website that I made is to increase the selling of flowers, because with the website we can help to make the customer to see the 
+flower that we sell and they can order it also through the website when the website is already done.
 
 I learned that to make website we need to prepare some site modules such as image and the content that we want to put in the banner, or bottom page. 
 
