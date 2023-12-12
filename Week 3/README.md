@@ -2,7 +2,7 @@
 
 ### Learning Activities & Resources
 This week I made a joomla website, and also reviewed some of the learning resources from youtube to helping make the website.
-I learned some new things that I needed to know how to make a joomla website, which I think it will be useful for the assignment later.
+I learned some new things that I needed to know how to make a wordpress website, which I think it will be useful for the assignment later.
 - https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction?autoplay=true&trk=course_preview&upsellOrderOrigin=lynda_redirect_learning
 - https://youtu.be/CEJLoXipdL0
 - https://youtu.be/uiW8PhxXrdE
