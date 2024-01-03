@@ -1,4 +1,4 @@
-## Learning Journal Week 6
+## Learning Journal Week 7
 
 ### Learning Activities & Resources
 This week I made php code and also I have reviewed some of the learning resources from youtube in order to help on making the PHP code for the website.
