@@ -31,5 +31,7 @@ in the PHP code like echo, if, else, for, while, foreach, function (parameter), 
 
 ### Group Project Work Report
 We have made our first version PHP code for the PHP and CSS code. We have not done much things, because this is still the first version of the codes and
-they all still not perfect yet. Therefore, we will fix, edit, and add more revision for the code later. You can check the code in this github repository link:
+they all still not perfect yet. Therefore, we will fix, edit, and add more revision for the code later. 
+
+You can check the code in this github repository link:
 - https://github.com/CMS-Group-2/CMS-Group-2
