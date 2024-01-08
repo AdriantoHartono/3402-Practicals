@@ -37,14 +37,12 @@ to make a website. For us, communication is one of the most important things whe
 this wordpress workflow guiding us to estalish clear communication channel in the first guide, because it can be said as the most important thing in a group project. Not
 just that, all of the guide are also important in order to making a good website. 
 
-**My Learning Insights**
-
+### Career/Employability/Learning Insights
 Based on the experience after applying this wordpress workflow, I can do the group assignment project better because I can communicate well with my teammates which make 
 we can do the group project becoming easier and also become much well organized. With this wordpress workflow, we as a group can make a better website with a good 
 maintanance there. Therefore, I will continue on using this wordpress workflow for the assignment and also for the other assignment that will be coming in the future, 
 because it really helpful for a group assignment.
 
-### Career/Employability/Learning Insights
 After completing the practical, I started to review at youtube to check if they provided additional perspectives based on
 what I gained from reviewing some material. I did learn some new things that I would not know before, such as there are a lot of wordpress workflow guides
 such as establishing clear communication channel, set up the wordpress development environment, and others.
